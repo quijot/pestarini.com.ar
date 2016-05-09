@@ -1,4 +1,4 @@
-Sitemap: http://pestarini.com.ar/sitemapindex.xml
+Sitemap: http://quijot.github.io/pestarini.com.ar/sitemapindex.xml
 
 User-Agent: *
-Host: pestarini.com.ar
+Host: quijot.github.io
