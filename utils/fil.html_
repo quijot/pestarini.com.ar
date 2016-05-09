@@ -1,0 +1,18 @@
+<!--
+.. title: File upload
+.. slug: fil
+.. date: 2014/02/11 13:21:10
+.. tags:
+.. link:
+.. description: file upload
+.. type: text
+-->
+
+<script type="text/javascript">
+  $("#input-5").fileinput({
+			showUpload: false,
+			maxFileCount: 10,
+			mainClass: "input-group-lg"
+		});
+</script>
+<input id="input-5" type="file" multiple=true class="file">
