@@ -8,34 +8,28 @@
 .. type: text
 -->
 
-Formulario de solicitud de ploteo
----------------------------------
+.. raw:: html
 
-El formulario es muy sencillo e intuitivo. Ante cualquier duda, lea los `consejos para completarlo <#consejos-para-completar-el-formulario>`_.
-
+  <p><a class="btn btn-primary btn-lg get-started" href="mailto:plot@pestarini.com.ar?subject=Solicitud de ploteo&body=Nombre:%0D%0A
+  Teléfono:%0D%0D%0A
+  Tipo de papel: Común/Vegetal/Poliéster%0D%0A
+  Cantidad de copias:%0D%0D%0A
+  Indicaciones:%0D%0D%0A
+  Archivos: NO OLVIDE ADJUNTAR SUS ARCHIVOS"><strong>Enviar planos</strong></a></p>
 
 .. admonition:: IMPORTANTE
 
  Si nos enviás los archivos en formato DWG, **por favor adjuntá los archivos de puntas, tipografías e imágenes** (según corresponda) necesarios para que la impresión sea la correcta. **NO NOS HACEMOS RESPONSABLES** de los errores que puedan surgir en la impresión por la falta de alguno de dichos archivos.
 
-----
-
-.. raw:: html
-
-    <script type="text/javascript" src="http://form.jotformz.com/jsform/40415388833660"></script>
-
-----
-
-
-Consejos para completar el formulario
--------------------------------------
+Consejos útiles
+---------------
 
 .. contents:: Preguntas frecuentes
 
 ¿Cuándo puedo retirar las impresiones?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Cumplidas las 24 horas de la recepción de los archivos, las impresiones se retiran estrictamente **de lunes a viernes por la tarde** (de 16 a 19 horas) en `las oficinas del Estudio </#oficinas>`_.
+Las impresiones se retiran preferentemente **por la tarde** (de 16 a 19 horas) en `las oficinas del Estudio </#oficinas>`_, teniendo en cuenta una demora de 24hs.
 
 ¿Qué archivos debo enviar?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -81,12 +75,6 @@ Si no envía el archivo en formato PDF, **los archivos de fuentes o tipografías
 Con cualquier software de compresión. Nosotros recomendamos el `7-zip <http://7-zip.org>`_. También puede usar WinZip |copyr|, WinRar |copyr|, etc.
 
   Cree un solo archivo comprimido (puede ser 7z, gz, rar, tar, tgz o zip) que contenga todos los planos que quiera imprimir. Esto hace más rápida y segura tanto la carga como el envío de la información.
-
-
-¿Por qué demora tanto?
-~~~~~~~~~~~~~~~~~~~~~~
-
-Mientras más pesado sea el archivo que adjunte, más van a demorar la carga y el envío del mismo. Déjelo cargando, puede demorar algunos minutos...
 
 
 ¿Qué tamaño o dimensiones máximas se pueden imprimir?
