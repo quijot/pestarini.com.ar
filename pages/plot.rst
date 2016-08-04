@@ -10,12 +10,28 @@
 
 .. raw:: html
 
-  <p><a class="btn btn-primary btn-lg get-started" href="mailto:plot@pestarini.com.ar?subject=Solicitud de ploteo&body=Nombre:%0D%0A
+  <p><a class="btn btn-primary btn-lg get-started" href="mailto:&#112;l&#111;t&#064;&#112;&#101;st&#097;&#114;&#105;&#110;&#105;&#046;&#099;&#111;&#109;&#046;&#097;&#114;?subject=Solicitud de ploteo&body=Nombre:%0D%0A
   Teléfono:%0D%0D%0A
   Tipo de papel: Común/Vegetal/Poliéster%0D%0A
   Cantidad de copias:%0D%0D%0A
   Indicaciones:%0D%0D%0A
   Archivos: NO OLVIDE ADJUNTAR SUS ARCHIVOS"><strong>Enviar planos</strong></a></p>
+
+o escríbanos un mail a plot |at| pestarini.com.ar con el siguiente cuerpo:
+
+.. |at| image:: /images/at.png
+             :height: 15px
+             :alt: arroba
+             :align: middle
+
+::
+
+  Nombre:
+  Teléfono:
+  Tipo de papel: Común/Vegetal/Poliéster
+  Cantidad de copias:
+  Indicaciones:
+  Archivos: ¡¡NO OLVIDE ADJUNTAR SUS ARCHIVOS!!
 
 .. admonition:: IMPORTANTE
 
