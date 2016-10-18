@@ -15,6 +15,24 @@ Estudio de Agrimensura **"Enrique A. Pestarini"**
 
 Agrim. Alberto Pestarini
 
+**Servicios de Agrimensura**
+
+.. class:: pull-right
+
+|df|
+
++ Loteos y urbanizaciones
++ Certificados Municipales
++ Medianería
++ Planialtimetrías
++ Topografía GPS/GNSS
++ Modelos Digitales del Terreno
++ Anexiones a distancia de fracciones rurales
++ Mensuras y subdivisiones urbanas y rurales
+
+.. |df| image:: /images/DATAWEB.jpg
+             :target: http://qr.afip.gob.ar/?qr=sGWfZgpwkXuxUMzthXFskQ,,
+             :height: 100px
 
 
 Turnos para consultas
@@ -57,6 +75,6 @@ Oficinas
 .. raw:: html
 
     <div align="center">
-        <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=-61.22263848781585%2C-32.03271395011551%2C-61.21964514255524%2C-32.031295068996066&amp;layer=mapnik" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/#map=19/-32.03200/-61.22114">Ver mapa más grande</a></small>
+        <iframe width="100%" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=-61.22263848781585%2C-32.03271395011551%2C-61.21964514255524%2C-32.031295068996066&amp;layer=mapnik&amp;marker=-32.031961309182535%2C-61.22113913297653" style="border: 10px solid #e6e6e6"></iframe><br/><small><a href="http://www.openstreetmap.org/#map=19/-32.03200/-61.22114">Ver mapa más grande</a></small>
     </div>
 
