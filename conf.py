@@ -106,6 +106,10 @@ NAVIGATION_LINKS = {
 # LOCALE_DEFAULT = locale to use for languages not mentioned in LOCALES; if
 # not set the default Nikola mapping is used.
 
+LOCALES = {'es':'es_AR.utf8'}
+LOCALE_FALLBACK = 'es_AR.utf8'
+# LOCALE_DEFAULT = None
+
 # POSTS and PAGES contains (wildcard, destination, template) tuples.
 #
 # The wildcard is used to generate a list of reSt source files
