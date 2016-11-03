@@ -1,5 +1,5 @@
 <!--
-.. title: Servicio de ploteo
+.. title: Servicio de ploteo por correo electrónico
 .. slug: plot
 .. date: 2014/02/11 13:21:10
 .. tags:
@@ -8,16 +8,11 @@
 .. type: text
 -->
 
-.. raw:: html
 
-  <p><a class="btn btn-primary btn-lg get-started" href="mailto:&#112;l&#111;t&#064;&#112;&#101;st&#097;&#114;&#105;&#110;&#105;&#046;&#099;&#111;&#109;&#046;&#097;&#114;?subject=Solicitud de ploteo&body=Nombre:%0D%0A
-  Teléfono:%0D%0D%0A
-  Tipo de papel: Común/Vegetal/Poliéster%0D%0A
-  Cantidad de copias:%0D%0D%0A
-  Indicaciones:%0D%0D%0A
-  Archivos: NO OLVIDE ADJUNTAR SUS ARCHIVOS"><strong>Enviar planos</strong></a></p>
+Opción 1
+--------
 
-o escríbanos un mail a plot |at| pestarini.com.ar con el siguiente cuerpo:
+Escribinos un correo a **plot** |at| **pestarini.com.ar** con el siguiente cuerpo:
 
 .. |at| image:: /images/at.png
              :height: 15px
@@ -33,14 +28,32 @@ o escríbanos un mail a plot |at| pestarini.com.ar con el siguiente cuerpo:
   Indicaciones:
   Archivos: ¡¡NO OLVIDE ADJUNTAR SUS ARCHIVOS!!
 
+.. class:: col-lg-4 pull-right
+
 .. admonition:: IMPORTANTE
 
  Si nos enviás los archivos en formato DWG, **por favor adjuntá los archivos de puntas, tipografías e imágenes** (según corresponda) necesarios para que la impresión sea la correcta. **NO NOS HACEMOS RESPONSABLES** de los errores que puedan surgir en la impresión por la falta de alguno de dichos archivos.
+
+Opción 2
+--------
+
+Si tenés configurado tu cliente de correo electrónico (Outlook, Thunderbird, GMail u otro...) probá usar este botón
+
+.. raw:: html
+
+  <p><a class="btn btn-primary btn-lg get-started" href="mailto:&#112;l&#111;t&#064;&#112;&#101;st&#097;&#114;&#105;&#110;&#105;&#046;&#099;&#111;&#109;&#046;&#097;&#114;?subject=Solicitud de ploteo&body=Nombre:%0D%0A
+  Teléfono:%0D%0D%0A
+  Tipo de papel: Común/Vegetal/Poliéster%0D%0A
+  Cantidad de copias:%0D%0D%0A
+  Indicaciones:%0D%0D%0A
+  Archivos: NO OLVIDE ADJUNTAR SUS ARCHIVOS"><strong>Enviar planos</strong></a></p>
+
 
 Consejos útiles
 ---------------
 
 .. contents:: Preguntas frecuentes
+  :local:
 
 ¿Cuándo puedo retirar las impresiones?
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
