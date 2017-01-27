@@ -2,7 +2,7 @@
 .. title: Estadísitcas del Estudio
 .. slug: stats
 .. date: 2014/02/11 13:21:10
-.. tags:
+.. tags: 
 .. link:
 .. description: Estadísticas
 .. type: text
