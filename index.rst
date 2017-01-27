@@ -14,6 +14,7 @@ Estudio de Agrimensura **"Enrique A. Pestarini"**
 -------------------------------------------------
 
 Agrim. Alberto Pestarini
+Ing. Agrim. Santiago Pestarini
 
 **Servicios de Agrimensura**
 
@@ -55,7 +56,7 @@ Contacto
 ~~~~~~~~
 
 - Teléfono: (03404) 431206
-- Correo electrónico: estudio |at| pestarini.com.ar
+- Correo electrónico: santiago |at| pestarini.com.ar
 - Personalmente en nuestras oficinas
 
 .. |at| image:: /images/at.png
