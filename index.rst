@@ -13,8 +13,8 @@
 Estudio de Agrimensura **"Enrique A. Pestarini"**
 -------------------------------------------------
 
-Agrim. Alberto Pestarini
-Ing. Agrim. Santiago Pestarini
+| Agrim. Alberto Pestarini
+| Ing. Agrim. Santiago Pestarini
 
 **Servicios de Agrimensura**
 
