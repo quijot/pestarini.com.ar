@@ -7,7 +7,7 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "Santiago Pestarini"
-BLOG_TITLE = 'Estudio de Agrimensura'
+BLOG_TITLE = 'Estudio de Agrimensura "Enrique A. Pestarini"'
 # This is the main URL for your site. It will be used
 # in a prominent link
 SITE_URL = "http://quijot.github.io/pestarini.com.ar/"
@@ -387,8 +387,9 @@ LICENSE = """
 """
 # A small copyright notice for the page footer (in HTML).
 # Default is ''
-CONTENT_FOOTER = 'Contenidos &copy; {date} <a href="mailto:{email}">{author}</a>&nbsp;&nbsp;|&nbsp;&nbsp;Empoderado por <a href="http://getnikola.com" rel="nofollow">Nikola</a>&nbsp;&nbsp;|&nbsp;&nbsp;{license}'
-CONTENT_FOOTER = CONTENT_FOOTER.format(email=BLOG_EMAIL,
+CONTENT_FOOTER = '{title}&nbsp;&nbsp;|&nbsp;&nbsp;Contenidos &copy; {date} <a href="mailto:{email}">{author}</a>&nbsp;&nbsp;|&nbsp;&nbsp;Empoderado por <a href="http://getnikola.com/" rel="nofollow">Nikola</a>, <a href="https://github.com/" rel="nofollow">GitHub</a>, <a href="https://www.000webhost.com/" rel="nofollow">000webhost</a>&nbsp;&nbsp;|&nbsp;&nbsp;{license}'
+CONTENT_FOOTER = CONTENT_FOOTER.format(title=BLOG_TITLE,
+                                       email=BLOG_EMAIL,
                                        author=BLOG_AUTHOR,
                                        date=time.gmtime().tm_year,
                                        license=LICENSE)
