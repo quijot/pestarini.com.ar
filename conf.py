@@ -7,7 +7,7 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "Santiago Pestarini"
-BLOG_TITLE = 'Estudio de Agrimensura "Enrique A. Pestarini"'
+BLOG_TITLE = 'Estudio de Agrimensura'
 # This is the main URL for your site. It will be used
 # in a prominent link
 SITE_URL = "http://quijot.github.io/pestarini.com.ar/"
