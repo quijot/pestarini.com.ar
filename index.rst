@@ -7,16 +7,14 @@
 .. type: text
 .. template: notitle.tmpl
 
-
 .. class:: jumbotron col-md-5 pull-right
 
-Estudio de Agrimensura **"Enrique A. Pestarini"**
--------------------------------------------------
+Estudio de Agrimensura **Enrique A. Pestarini**
+-----------------------------------------------
 
-| Agrim. Alberto Pestarini
-| Ing. Agrim. Santiago Pestarini
+Agrim. **Alberto Pestarini** |br|\ Ing. Agrim. **Santiago Pestarini**
 
-**Servicios de Agrimensura**
+Ofrecemos Servicios de Agrimensura desde hace más de 65 años
 
 .. class:: pull-right
 
@@ -35,25 +33,22 @@ Estudio de Agrimensura **"Enrique A. Pestarini"**
              :target: http://qr.afip.gob.ar/?qr=sGWfZgpwkXuxUMzthXFskQ,,
              :height: 100px
 
+.. |br| raw:: html
 
-Turnos para consultas
----------------------
+   <br />
 
-Se atienden consultas personales o telefónicas exclusivamente los días **lunes y jueves entre las 16 y las 19 horas**.
+Consultas gratuitas
+-------------------
 
-Para solicitar su turno ingrese `aquí </turnos/>`_.
+Se atienden consultas de manera gratuita en las oficinas, telefónicamente o por correo electrónico, durante los horarios de atención.
 
+Horarios de atención
+--------------------
 
-Horarios de atención general
-----------------------------
-
-**Lunes a viernes de 9 a 12 y de 16 a 19 horas.**
-
-Durante el horario de atención se reciben mensajes, documentación o cualquier consulta tendiente a agilizar el trámite de los expedientes abiertos.
-
+Las oficinas se encuentran abiertas al público de **lunes a viernes de 9 a 12 y de 16 a 19 horas**.
 
 Contacto
-~~~~~~~~
+--------
 
 - Teléfono: (03404) 431206
 - Correo electrónico: santiago |at| pestarini.com.ar
@@ -65,7 +60,7 @@ Contacto
              :align: middle
 
 Oficinas
-~~~~~~~~
+--------
 
 | San Martín 430 - piso 1
 | (2252) Gálvez
