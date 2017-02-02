@@ -7,7 +7,7 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "Santiago Pestarini"
-BLOG_TITLE = 'Estudio de Agrimensura "Enrique A. Pestarini"'
+BLOG_TITLE = 'Estudio de Agrimensura <strong>Enrique A. Pestarini</strong>'
 # This is the main URL for your site. It will be used
 # in a prominent link
 SITE_URL = "http://quijot.github.io/pestarini.com.ar/"
@@ -83,7 +83,6 @@ TRANSLATIONS_PATTERN = "{path}.{ext}.{lang}"
 # You should provide a key-value pair for each used language.
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ('/turnos/', 'Turnos'),
         ('/plot/', 'Servicio de ploteo'),
         ('/#oficinas', 'Oficinas'),
         ('/#contacto', 'Contacto'),
