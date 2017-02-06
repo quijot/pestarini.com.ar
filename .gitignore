@@ -4,3 +4,4 @@ __pycache__
 output
 *.pyc
 files/utils
+*.swp
