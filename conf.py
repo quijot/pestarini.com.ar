@@ -86,7 +86,7 @@ NAVIGATION_LINKS = {
         ('/plot/', 'Servicio de ploteo'),
         ('/#oficinas', 'Oficinas'),
         ('/#contacto', 'Contacto'),
-        ('/gea', 'GEA'),
+        ('http://pestarini.com.ar/gea', '<strong>GEA</strong>'),
 #        ('/archive.html', 'Archives'),
 #        ('/categories/index.html', 'Tags'),
 #        ('/rss.xml', 'RSS'),
