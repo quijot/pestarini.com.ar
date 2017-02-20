@@ -86,6 +86,7 @@ NAVIGATION_LINKS = {
         ('/plot/', 'Servicio de ploteo'),
         ('/#oficinas', 'Oficinas'),
         ('/#contacto', 'Contacto'),
+        ('/gea', 'GEA'),
 #        ('/archive.html', 'Archives'),
 #        ('/categories/index.html', 'Tags'),
 #        ('/rss.xml', 'RSS'),
