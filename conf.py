@@ -86,7 +86,7 @@ NAVIGATION_LINKS = {
         ('/plot/', 'Servicio de ploteo'),
         ('/#oficinas', 'Oficinas'),
         ('/#contacto', 'Contacto'),
-        ('http://pestarini.com.ar/gea', '<strong>GEA</strong>'),
+        ('http://gea.pestarini.com.ar/', '<strong>GEA</strong>'),
 #        ('/archive.html', 'Archives'),
 #        ('/categories/index.html', 'Tags'),
 #        ('/rss.xml', 'RSS'),
@@ -387,7 +387,7 @@ LICENSE = """
 """
 # A small copyright notice for the page footer (in HTML).
 # Default is ''
-CONTENT_FOOTER = '{title}&nbsp;&nbsp;|&nbsp;&nbsp;Contenidos &copy; {date} <a href="mailto:{email}">{author}</a>&nbsp;&nbsp;|&nbsp;&nbsp;Empoderado por <a href="http://getnikola.com/" rel="nofollow">Nikola</a>, <a href="https://github.com/" rel="nofollow">GitHub</a>, <a href="https://www.000webhost.com/" rel="nofollow">000webhost</a>&nbsp;&nbsp;|&nbsp;&nbsp;{license}'
+CONTENT_FOOTER = '{title}&nbsp;&nbsp;|&nbsp;&nbsp;Contenidos &copy; {date} <a href="mailto:{email}">{author}</a>&nbsp;&nbsp;|&nbsp;&nbsp;Empoderado por <a href="http://getnikola.com/" rel="nofollow">Nikola</a>, <a href="https://github.com/" rel="nofollow">GitHub</a>, <a href="http://freedns.afraid.org/" rel="nofollow">Free DNS</a>&nbsp;&nbsp;|&nbsp;&nbsp;{license}'
 CONTENT_FOOTER = CONTENT_FOOTER.format(title=BLOG_TITLE,
                                        email=BLOG_EMAIL,
                                        author=BLOG_AUTHOR,
