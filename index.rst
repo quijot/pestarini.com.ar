@@ -9,10 +9,10 @@
 
 .. class:: jumbotron
 
-Estudio de Agrimensura **Enrique A. Pestarini**
------------------------------------------------
+Estudio de Agrimensura |br|\  **Enrique A. Pestarini**
+------------------------------------------------------
 
-Agrim. **Alberto Pestarini** |br|\ Ing. Agrim. **Santiago Pestarini**
+Agrim. **Alberto Pestarini** |br|\ ICoPA 1-0014 |br|\ Ing. Agrim. **Santiago Pestarini** |br|\ ICoPA 1-0253
 
 .. |br| raw:: html
 
@@ -20,18 +20,6 @@ Agrim. **Alberto Pestarini** |br|\ Ing. Agrim. **Santiago Pestarini**
 
 Servicios de Agrimensura
 ------------------------
-
-.. class:: pull-right
-
-|dfa| |dfs|
-
-.. |dfa| image:: /images/DATAWEB.jpg
-             :target: http://qr.afip.gob.ar/?qr=sGWfZgpwkXuxUMzthXFskQ,,
-             :height: 100px
-
-.. |dfs| image:: /images/DATAWEB.jpg
-             :target: http://qr.afip.gob.ar/?qr=ruJ85j_ljCwmbuZoZulEVA,,
-             :height: 100px
 
 Ofrecemos Servicios de Agrimensura desde hace más de 65 años
 
@@ -58,7 +46,7 @@ Contacto
 --------
 
 - Teléfono: (03404) 431206
-- Correo electrónico: santiago |at| pestarini.com.ar
+- Correo electrónico: estudio |at| pestarini.com.ar
 - Personalmente en nuestras oficinas
 
 .. |at| image:: /images/at.png
@@ -81,3 +69,14 @@ Oficinas
         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3382.377093898275!2d-61.223213684836786!3d-32.031982981203406!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x5a545da8bcc03509!2sEstudio+de+Agrimensura+%22Enrique+A.+Pestarini%22!5e0!3m2!1ses-419!2sus!4v1486389462183" width="100%" height="350" frameborder="0" style="border:10px solid #e6e6e6" allowfullscreen></iframe>
     </div>
 
+.. class:: pull-right
+
+|dfa| |dfs|
+
+.. |dfa| image:: /images/DATAWEB.jpg
+             :target: http://qr.afip.gob.ar/?qr=sGWfZgpwkXuxUMzthXFskQ,,
+             :height: 100px
+
+.. |dfs| image:: /images/DATAWEB.jpg
+             :target: http://qr.afip.gob.ar/?qr=ruJ85j_ljCwmbuZoZulEVA,,
+             :height: 100px
