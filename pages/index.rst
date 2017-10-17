@@ -12,11 +12,18 @@
 Estudio de Agrimensura **Enrique A. Pestarini**
 -----------------------------------------------
 
+Agrim. **Alberto Pestarini** |br|\ Ing. Agrim. **Santiago Pestarini**
+
+.. |br| raw:: html
+
+   <br />
+
+Servicios de Agrimensura
+------------------------
+
 .. class:: pull-right
 
 |dfa| |dfs|
-
-Agrim. **Alberto Pestarini** |br|\ Ing. Agrim. **Santiago Pestarini**
 
 .. |dfa| image:: /images/DATAWEB.jpg
              :target: http://qr.afip.gob.ar/?qr=sGWfZgpwkXuxUMzthXFskQ,,
@@ -25,13 +32,6 @@ Agrim. **Alberto Pestarini** |br|\ Ing. Agrim. **Santiago Pestarini**
 .. |dfs| image:: /images/DATAWEB.jpg
              :target: http://qr.afip.gob.ar/?qr=ruJ85j_ljCwmbuZoZulEVA,,
              :height: 100px
-
-.. |br| raw:: html
-
-   <br />
-
-Servicios de Agrimensura
-------------------------
 
 Ofrecemos Servicios de Agrimensura desde hace más de 65 años
 
