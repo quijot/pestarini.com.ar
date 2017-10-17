@@ -7,18 +7,33 @@
 .. type: text
 .. template: notitle.tmpl
 
-.. class:: jumbotron col-md-5 pull-right
+.. class:: jumbotron
 
 Estudio de Agrimensura **Enrique A. Pestarini**
 -----------------------------------------------
 
-Agrim. **Alberto Pestarini** |br|\ Ing. Agrim. **Santiago Pestarini**
-
-Ofrecemos Servicios de Agrimensura desde hace más de 65 años
-
 .. class:: pull-right
 
-|df|
+|dfa| |dfs|
+
+Agrim. **Alberto Pestarini** |br|\ Ing. Agrim. **Santiago Pestarini**
+
+.. |dfa| image:: /images/DATAWEB.jpg
+             :target: http://qr.afip.gob.ar/?qr=sGWfZgpwkXuxUMzthXFskQ,,
+             :height: 100px
+
+.. |dfs| image:: /images/DATAWEB.jpg
+             :target: http://qr.afip.gob.ar/?qr=ruJ85j_ljCwmbuZoZulEVA,,
+             :height: 100px
+
+.. |br| raw:: html
+
+   <br />
+
+Servicios de Agrimensura
+------------------------
+
+Ofrecemos Servicios de Agrimensura desde hace más de 65 años
 
 + Loteos y urbanizaciones
 + Certificados Municipales
@@ -28,14 +43,6 @@ Ofrecemos Servicios de Agrimensura desde hace más de 65 años
 + Modelos Digitales del Terreno
 + Anexiones a distancia de fracciones rurales
 + Mensuras y subdivisiones urbanas y rurales
-
-.. |df| image:: /images/DATAWEB.jpg
-             :target: http://qr.afip.gob.ar/?qr=sGWfZgpwkXuxUMzthXFskQ,,
-             :height: 100px
-
-.. |br| raw:: html
-
-   <br />
 
 Consultas gratuitas
 -------------------
