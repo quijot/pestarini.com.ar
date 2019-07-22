@@ -83,7 +83,7 @@ TRANSLATIONS_PATTERN = "{path}.{ext}.{lang}"
 # You should provide a key-value pair for each used language.
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ('/plot/', 'Servicio de ploteo'),
+#        ('/plot/', 'Servicio de ploteo'),
         ('/#oficinas', 'Oficinas'),
         ('/#contacto', 'Contacto'),
         ('http://gea.pestarini.com.ar/', '<strong>GEA</strong>'),
