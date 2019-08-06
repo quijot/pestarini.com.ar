@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://quijot.github.io/pestarini.com.ar/</loc>
-  <lastmod>2019-07-22T15:29:00Z</lastmod>
+  <lastmod>2019-08-06T12:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://quijot.github.io/pestarini.com.ar/archive.html</loc>
@@ -20,6 +20,10 @@
  <url>
   <loc>http://quijot.github.io/pestarini.com.ar/categories/</loc>
   <lastmod>2019-07-22T15:29:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://quijot.github.io/pestarini.com.ar/mp/</loc>
+  <lastmod>2019-08-06T12:54:00Z</lastmod>
  </url>
  <url>
   <loc>http://quijot.github.io/pestarini.com.ar/plot/</loc>

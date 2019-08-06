@@ -70,11 +70,6 @@ Oficinas
     </div>
 
 
-.. class:: pull-left
-
-.. image:: /images/tarjetas.png
-           :height: 250 px
-           :alt: Aceptamos las siguientes tarjetas de crédito y débito
 
 .. class:: pull-right
 
@@ -87,3 +82,13 @@ Oficinas
 .. |dfs| image:: /images/DATAWEB.jpg
              :target: http://qr.afip.gob.ar/?qr=ruJ85j_ljCwmbuZoZulEVA,,
              :height: 100px
+
+Te ofrecemos distintos medios de pago
+-------------------------------------
+
+|mplogo|
+
+`Ver promociones bancarias <https://www.mercadopago.com.ar/cuotas>`_
+
+.. |mplogo| image:: https://http2.mlstatic.com/ui/navigation/4.1.4/mercadopago/logo__large.png
+                :target: https://www.mercadopago.com.ar/
