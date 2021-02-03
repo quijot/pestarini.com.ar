@@ -21,7 +21,7 @@ Agrim. **Alberto Pestarini** |br|\ ICoPA 1-0014 |br|\ Ing. Agrim. **Santiago Pes
 Servicios de Agrimensura
 ------------------------
 
-Ofrecemos Servicios de Agrimensura desde hace más de 65 años
+Ofrecemos Servicios de Agrimensura desde hace más de 70 años
 
 + Loteos y urbanizaciones
 + Certificados Municipales
@@ -46,13 +46,8 @@ Contacto
 --------
 
 - Teléfono: (03404) 431206
-- Correo electrónico: estudio |at| pestarini.com.ar
+- Correo electrónico: `estudio@pestarini.com.ar <mailto:estudio@pestarini.com.ar>`_
 - Personalmente en nuestras oficinas
-
-.. |at| image:: /images/at.png
-             :height: 15px
-             :alt: arroba
-             :align: middle
 
 Oficinas
 --------
@@ -77,18 +72,13 @@ Oficinas
 
 .. |dfa| image:: /images/DATAWEB.jpg
              :target: http://qr.afip.gob.ar/?qr=sGWfZgpwkXuxUMzthXFskQ,,
-             :height: 100px
+             :height: 50px
 
 .. |dfs| image:: /images/DATAWEB.jpg
              :target: http://qr.afip.gob.ar/?qr=ruJ85j_ljCwmbuZoZulEVA,,
-             :height: 100px
-
-Te ofrecemos distintos medios de pago
--------------------------------------
+             :height: 50px
 
 |mplogo|
 
-`Ver promociones bancarias <https://www.mercadopago.com.ar/cuotas>`_
-
 .. |mplogo| image:: https://http2.mlstatic.com/ui/navigation/4.1.4/mercadopago/logo__large.png
-                :target: https://www.mercadopago.com.ar/
+                :target: https://www.mercadopago.com.ar/cuotas/

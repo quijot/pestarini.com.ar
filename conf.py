@@ -7,7 +7,7 @@ import time
 
 # Data about this site
 BLOG_AUTHOR = "Santiago Pestarini"
-BLOG_TITLE = 'Estudio de Agrimensura <strong>Enrique A. Pestarini</strong>'
+BLOG_TITLE = "Pestarini Agrimensura"
 # This is the main URL for your site. It will be used
 # in a prominent link
 SITE_URL = "https://pestarini.com.ar/"
@@ -743,3 +743,6 @@ GITHUB_COMMIT_SOURCE = True
 # It can be anything, data, functions, modules, etc.
 
 GLOBAL_CONTEXT = {}
+
+NIKOLA_DEBUG=1
+NIKOLA_SHOW_TRACEBACKS=1
