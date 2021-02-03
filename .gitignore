@@ -3,6 +3,7 @@ cache
 .doit.db
 __pycache__
 output
+drafts
 *.pyc
 files/utils
 *.swp
