@@ -21,31 +21,31 @@ Agrim. **Alberto Pestarini** |br|\ ICoPA 1-0014 |br|\ Ing. Agrim. **Santiago Pes
 Servicios de Agrimensura
 ------------------------
 
-Ofrecemos Servicios de Agrimensura desde hace más de 70 años
+Ofrecemos Servicios de Agrimensura desde hace más de 70 años.
 
++ **Mensuras y subdivisiones urbanas y rurales**
++ **Verificaciones de Estado Parcelario**
 + Loteos y urbanizaciones
 + Certificados Municipales
 + Medianería
 + Planialtimetrías
 + Topografía GPS/GNSS
 + Modelos Digitales del Terreno
+
+Somos especialistas en:
+
 + Anexiones a distancia de fracciones rurales
-+ Mensuras y subdivisiones urbanas y rurales
++ **Mensuras para DIVISIÓN de CONDOMINIO RURAL (LEY 14.053)**
 
 Consultas gratuitas
 -------------------
 
-Se atienden consultas de manera gratuita en las oficinas, telefónicamente o por correo electrónico, durante los horarios de atención.
-
-Horarios de atención
---------------------
-
-Las oficinas se encuentran abiertas al público de **lunes a viernes de 9 a 12 y de 16 a 19 horas**.
+Se atienden consultas de manera gratuita por teléfono, Whatsapp o correo electrónico (ver `contacto </#contacto>`_). También de manera presencial en las oficinas, previamente acordadas.
 
 Contacto
 --------
 
-- Teléfono: (03404) 431206
+- Teléfono: (0341) 156180010
 - Correo electrónico: `estudio@pestarini.com.ar <mailto:estudio@pestarini.com.ar>`_
 - Personalmente en nuestras oficinas
 
@@ -53,6 +53,11 @@ Oficinas
 --------
 
 | San Martín 430 - piso 1
+| (2252) Gálvez
+| Santa Fe
+| Argentina
+
+| Dorato 638 (CONEXA Cowork)
 | (2252) Gálvez
 | Santa Fe
 | Argentina
