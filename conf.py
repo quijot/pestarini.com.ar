@@ -14,7 +14,7 @@ SITE_URL = "https://pestarini.com.ar/"
 # This is the URL where nikola's output will be deployed.
 # If not set, defaults to SITE_URL
 # BASE_URL = "http://getnikola.com/"
-#BASE_URL = "http://prueba.net/devel/agrimensor/output/"
+# BASE_URL = "http://prueba.net/devel/agrimensor/output/"
 BLOG_EMAIL = "santiago@pestarini.com.ar"
 BLOG_DESCRIPTION = ''
 
@@ -83,13 +83,13 @@ TRANSLATIONS_PATTERN = "{path}.{ext}.{lang}"
 # You should provide a key-value pair for each used language.
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-#        ('/plot/', 'Servicio de ploteo'),
+        # ('/plot/', 'Servicio de ploteo'),
         ('/#oficinas', 'Oficinas'),
         ('/#contacto', 'Contacto'),
         ('http://gea.pestarini.com.ar/', '<strong>GEA</strong>'),
-#        ('/archive.html', 'Archives'),
-#        ('/categories/index.html', 'Tags'),
-#        ('/rss.xml', 'RSS'),
+        # ('/archive.html', 'Archives'),
+        # ('/categories/index.html', 'Tags'),
+        # ('/rss.xml', 'RSS'),
     ),
 }
 
@@ -106,7 +106,7 @@ NAVIGATION_LINKS = {
 # LOCALE_DEFAULT = locale to use for languages not mentioned in LOCALES; if
 # not set the default Nikola mapping is used.
 
-LOCALES = {'es':'es_AR.utf8'}
+LOCALES = {'es': 'es_AR.utf8'}
 LOCALE_FALLBACK = 'es_AR.utf8'
 # LOCALE_DEFAULT = None
 
@@ -335,7 +335,7 @@ INDEX_PATH = "blog"
                              # the main (the newest) index page (index.html)
 
 # Name of the theme to use.
-#THEME = "bootstrap3"
+# THEME = "bootstrap3"
 THEME = "cosmo"
 
 # Color scheme to be used for code blocks. If your theme provides
@@ -735,7 +735,7 @@ LOGGING_HANDLERS = {
 }
 
 GITHUB_DEPLOY_BRANCH = 'gh-pages'
-#GITHUB_SOURCE_BRANCH = 'master'
+# GITHUB_SOURCE_BRANCH = 'master'
 GITHUB_REMOTE_NAME = 'https://github.com/quijot/pestarini.com.ar.git'
 GITHUB_COMMIT_SOURCE = True
 
@@ -744,5 +744,5 @@ GITHUB_COMMIT_SOURCE = True
 
 GLOBAL_CONTEXT = {}
 
-NIKOLA_DEBUG=1
-NIKOLA_SHOW_TRACEBACKS=1
+NIKOLA_DEBUG = 1
+NIKOLA_SHOW_TRACEBACKS = 1
