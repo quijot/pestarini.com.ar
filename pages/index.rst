@@ -21,7 +21,7 @@ Agrim. **Alberto Pestarini** |br|\ ICoPA 1-0014 |br|\ Ing. Agrim. **Santiago Pes
 Servicios de Agrimensura
 ------------------------
 
-Ofrecemos Servicios de Agrimensura desde hace más de 70 años.
+Ofrecemos Servicios de Agrimensura desde hace más de 70 años
 
 + **Mensuras y subdivisiones urbanas y rurales**
 + **Verificaciones de Estado Parcelario**
