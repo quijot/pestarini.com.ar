@@ -1,28 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-    xmlns:xhtml="http://www.w3.org/1999/xhtml"
-    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-                        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
- <url>
-  <loc>https://pestarini.com.ar/</loc>
-  <lastmod>2023-07-14T13:07:00Z</lastmod>
- </url>
- <url>
-  <loc>https://pestarini.com.ar/archive.html</loc>
-  <lastmod>2023-07-14T13:07:00Z</lastmod>
- </url>
- <url>
-  <loc>https://pestarini.com.ar/blog/</loc>
-  <lastmod>2023-07-14T13:07:00Z</lastmod>
- </url>
- <url>
-  <loc>https://pestarini.com.ar/categories/</loc>
-  <lastmod>2023-07-14T13:07:00Z</lastmod>
- </url>
- <url>
-  <loc>https://pestarini.com.ar/plot/</loc>
-  <lastmod>2023-07-14T13:07:00Z</lastmod>
- </url>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.pestarini.com.ar/</loc>
+    <lastmod>2026-04-29</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
 </urlset>

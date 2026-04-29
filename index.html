@@ -1,156 +1,517 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="es">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Inicio | Pestarini Agrimensura</title>
-<link href="assets/css/all-nocdn.css" rel="stylesheet" type="text/css">
-<meta name="theme-color" content="#5670d4">
-<meta name="generator" content="Nikola (getnikola.com)">
-<link rel="alternate" type="application/rss+xml" title="RSS" hreflang="es" href="rss.xml">
-<link rel="canonical" href="https://pestarini.com.ar/">
-<!--[if lt IE 9]><script src="assets/js/html5.js"></script><![endif]--><meta name="author" content="Santiago Pestarini">
-<meta property="og:site_name" content="Pestarini Agrimensura">
-<meta property="og:title" content="Inicio">
-<meta property="og:url" content="https://pestarini.com.ar/">
-<meta property="og:description" content="Estudio de Agrimensura  Enrique A. Pestarini
-Agrim. Alberto Pestarini ICoPA 1-0014 Ing. Agrim. Santiago Pestarini ICoPA 1-0253
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Pestarini Agrimensura · Más de 75 años de trayectoria</title>
+<meta name="description" content="Estudio de Agrimensura Pestarini. Tres generaciones al servicio de la mensura, subdivisión, relevamientos topográficos y regularización dominial. Precisión, trayectoria y atención personalizada.">
+<meta name="theme-color" content="#DA0003">
+<meta name="robots" content="index,follow">
+<link rel="canonical" href="https://www.pestarini.com.ar/">
 
+<meta property="og:type" content="website">
+<meta property="og:title" content="Pestarini Agrimensura · Más de 75 años de trayectoria">
+<meta property="og:description" content="Tres generaciones de Agrimensores. Mensuras, subdivisiones, relevamientos y regularizaciones con precisión y atención personalizada.">
+<meta property="og:locale" content="es_AR">
+<meta property="og:url" content="https://www.pestarini.com.ar/">
+<meta property="og:image" content="https://www.pestarini.com.ar/hero.jpg">
 
-Servicios de Agrimensura
-Ofrecemos Servicios de Agrimensura desde hace ">
-<meta property="og:type" content="article">
-<meta property="article:published_time" content="2014-02-11T13:21:10-03:00">
-<meta property="og:site_name" content="Pestarini Agrimensura">
-<meta property="og:title" content="Inicio">
-<meta property="og:url" content="https://pestarini.com.ar/">
-<meta property="og:description" content="Estudio de Agrimensura  Enrique A. Pestarini
-Agrim. Alberto Pestarini ICoPA 1-0014 Ing. Agrim. Santiago Pestarini ICoPA 1-0253
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="alternate icon" href="favicon-32.png" sizes="32x32" type="image/png">
+<link rel="alternate icon" href="favicon-16.png" sizes="16x16" type="image/png">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
 
+<link rel="preload" as="image" href="hero.webp" type="image/webp" fetchpriority="high">
 
-Servicios de Agrimensura
-Ofrecemos Servicios de Agrimensura desde hace ">
-<meta property="og:type" content="article">
-<meta property="article:published_time" content="2014-02-11T13:21:10-03:00">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Kanit:wght@500;700;800&family=Rubik:wght@300;400;500;700&display=swap" rel="stylesheet">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ProfessionalService",
+  "name": "Pestarini Agrimensura",
+  "description": "Estudio de Agrimensura con más de 75 años de trayectoria. Mensuras, subdivisiones, relevamientos topográficos y regularización dominial.",
+  "founder": "Enrique Pestarini",
+  "foundingDate": "1950",
+  "areaServed": "Argentina",
+  "url": "https://www.pestarini.com.ar/",
+  "slogan": "Tres generaciones marcando el camino",
+  "email": "estudio@pestarini.com.ar",
+  "telephone": "+54-341-618-0010",
+  "address": [
+    {"@type":"PostalAddress","streetAddress":"San Martín 430","addressLocality":"Gálvez","addressRegion":"Santa Fe","addressCountry":"AR"},
+    {"@type":"PostalAddress","streetAddress":"Dorato 638 (CONEXA Cowork)","addressLocality":"Gálvez","addressRegion":"Santa Fe","addressCountry":"AR"}
+  ],
+  "employee": [
+    {"@type":"Person","name":"Santiago Pestarini","jobTitle":"Ingeniero Agrimensor"},
+    {"@type":"Person","name":"Alberto Pestarini","jobTitle":"Agrimensor"},
+    {"@type":"Person","name":"Yamile Sturba","jobTitle":"Arquitecta"},
+    {"@type":"Person","name":"Melisa Poncio","jobTitle":"Estudiante de Agrimensura"},
+    {"@type":"Person","name":"Bruno Raimondi","jobTitle":"Estudiante de Agrimensura"}
+  ]
+}
+</script>
+
+<style>
+:root{
+  --rojo:#DA0003;
+  --negro:#000;
+  --tinta:#1A1A1A;
+  --grafito:#333;
+  --gris:#666;
+  --gris-claro:#CCC;
+  --pluma:#E6E6E6;
+  --niebla:#F4F4F4;
+  --blanco:#FFF;
+  --max:1180px;
+  --radio:14px;
+  --sombra:0 10px 30px rgba(0,0,0,.08);
+}
+*{box-sizing:border-box}
+html{scroll-behavior:smooth}
+body{
+  margin:0;
+  font-family:'Rubik',system-ui,-apple-system,Segoe UI,sans-serif;
+  font-weight:400;
+  color:var(--tinta);
+  background:var(--blanco);
+  line-height:1.6;
+  -webkit-font-smoothing:antialiased;
+}
+img{max-width:100%;display:block}
+a{color:inherit;text-decoration:none}
+h1,h2,h3,h4{font-family:'Kanit',sans-serif;font-weight:800;line-height:1.1;letter-spacing:-.01em;margin:0 0 .5em}
+h1{font-size:clamp(2.4rem,5.5vw,4.4rem)}
+h2{font-size:clamp(1.8rem,3.4vw,2.6rem)}
+h3{font-size:1.25rem;font-weight:700}
+p{margin:0 0 1em}
+.container{max-width:var(--max);margin:0 auto;padding:0 1.5rem}
+.eyebrow{
+  font-family:'Kanit',sans-serif;font-weight:700;
+  text-transform:uppercase;letter-spacing:.18em;
+  font-size:.78rem;color:var(--rojo);
+  display:inline-flex;align-items:center;gap:.6rem;margin-bottom:1rem;
+}
+.eyebrow::before{content:"";width:28px;height:3px;background:var(--rojo);display:inline-block}
+
+/* ---- accesibilidad ---- */
+.skip{
+  position:absolute;left:-9999px;top:0;background:var(--negro);color:#fff;
+  padding:.6rem 1rem;z-index:100;
+}
+.skip:focus{left:1rem;top:1rem}
+:focus-visible{outline:3px solid var(--rojo);outline-offset:3px;border-radius:4px}
+
+/* ---- header ---- */
+.site-header{
+  position:sticky;top:0;z-index:50;
+  background:rgba(255,255,255,.92);
+  backdrop-filter:saturate(140%) blur(10px);
+  border-bottom:1px solid var(--pluma);
+}
+.nav{
+  display:flex;align-items:center;justify-content:space-between;
+  padding:1rem 1.5rem;max-width:var(--max);margin:0 auto;
+}
+.brand{display:inline-flex;align-items:center}
+.brand img{height:34px;width:auto;display:block}
+footer .brand img{height:28px}
+@media(max-width:480px){.brand img{height:28px}}
+.nav ul{
+  display:flex;gap:1.8rem;list-style:none;margin:0;padding:0;
+  font-size:.95rem;font-weight:500;
+}
+.nav a:hover{color:var(--rojo)}
+.cta{
+  display:inline-block;background:var(--negro);color:#fff;
+  padding:.7rem 1.2rem;border-radius:999px;font-weight:500;
+  font-size:.92rem;transition:background .2s, transform .2s;
+}
+.cta:hover{background:var(--rojo);transform:translateY(-1px)}
+.cta.outline{background:transparent;color:var(--negro);border:1.5px solid var(--negro)}
+.cta.outline:hover{background:var(--negro);color:#fff}
+.menu-btn{display:none;background:none;border:0;font-size:1.5rem;cursor:pointer}
+@media(max-width:780px){
+  .nav ul{display:none}
+  .menu-btn{display:block}
+  .nav.open ul{
+    display:flex;flex-direction:column;position:absolute;
+    top:100%;left:0;right:0;background:#fff;padding:1.5rem;gap:1rem;
+    border-bottom:1px solid var(--pluma);
+  }
+}
+
+/* ---- hero ---- */
+.hero{
+  position:relative;overflow:hidden;
+  padding:clamp(4rem,10vw,8rem) 0 clamp(4rem,8vw,7rem);
+  background:
+    radial-gradient(1100px 600px at 110% -10%, rgba(218,0,3,.08), transparent 60%),
+    linear-gradient(180deg,#fff,#fafafa);
+}
+.hero-grid{
+  display:grid;grid-template-columns:1.2fr .8fr;gap:3rem;align-items:center;
+}
+.hero h1 span{color:var(--rojo)}
+.hero p.lead{font-size:1.15rem;color:var(--grafito);max-width:38ch}
+.hero-actions{display:flex;flex-wrap:wrap;gap:.8rem;margin-top:1.5rem}
+.hero-stats{
+  display:grid;grid-template-columns:repeat(3,1fr);gap:1rem;
+  margin-top:3rem;padding-top:2rem;border-top:1px solid var(--pluma);
+}
+.stat .num{
+  font-family:'Kanit',sans-serif;font-weight:800;font-size:2.2rem;
+  color:var(--negro);line-height:1;
+}
+.stat .num em{color:var(--rojo);font-style:normal}
+.stat .label{font-size:.85rem;color:var(--gris);margin-top:.3rem}
+
+.hero-visual{
+  position:relative;aspect-ratio:4/5;border-radius:var(--radio);
+  box-shadow:var(--sombra);overflow:hidden;isolation:isolate;background:#1a1a1a;
+}
+.hero-visual picture, .hero-visual img{
+  position:absolute;inset:0;width:100%;height:100%;object-fit:cover;z-index:0;
+}
+.hero-visual::before{
+  content:"";position:absolute;inset:0;z-index:1;
+  background:linear-gradient(180deg,rgba(0,0,0,.55),rgba(0,0,0,.15) 40%,rgba(0,0,0,.65));
+}
+.hero-visual::after{
+  content:"";position:absolute;inset:auto -20% -20% auto;z-index:1;
+  width:60%;aspect-ratio:1;background:var(--rojo);
+  border-radius:50%;filter:blur(60px);opacity:.35;
+}
+.hero-visual > .hero-badge, .hero-visual > .hero-quote{z-index:2}
+.hero-badge{
+  position:absolute;top:1.2rem;left:1.2rem;
+  background:rgba(255,255,255,.92);color:var(--negro);
+  padding:.6rem 1rem;border-radius:999px;font-size:.78rem;
+  font-family:'Kanit',sans-serif;font-weight:700;letter-spacing:.12em;
+  text-transform:uppercase;
+}
+.hero-quote{
+  position:absolute;bottom:1.2rem;left:1.2rem;right:1.2rem;
+  color:#fff;font-family:'Kanit',sans-serif;font-weight:500;
+  font-size:1.05rem;line-height:1.3;
+}
+@media(max-width:840px){
+  .hero-grid{grid-template-columns:1fr}
+  .hero-visual{aspect-ratio:5/4;max-height:420px}
+}
+
+/* ---- secciones genéricas ---- */
+section{padding:clamp(4rem,7vw,6rem) 0}
+.section-head{max-width:680px;margin-bottom:3rem}
+.section-head p{color:var(--gris);font-size:1.05rem}
+
+/* ---- servicios ---- */
+.servicios{background:var(--niebla)}
+.grid-srv{
+  display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:1.2rem;
+}
+.card{
+  background:#fff;padding:1.8rem;border-radius:var(--radio);
+  border:1px solid var(--pluma);transition:transform .25s,box-shadow .25s,border-color .25s;
+}
+.card:hover{transform:translateY(-4px);box-shadow:var(--sombra);border-color:var(--rojo)}
+.card .ico{
+  width:42px;height:42px;border-radius:10px;background:var(--negro);color:#fff;
+  display:grid;place-items:center;margin-bottom:1rem;
+  font-family:'Kanit',sans-serif;font-weight:800;
+}
+.card:hover .ico{background:var(--rojo)}
+.card p{font-size:.95rem;color:var(--gris);margin:0}
+
+/* ---- historia ---- */
+.historia{position:relative}
+.historia-grid{display:grid;grid-template-columns:1fr 1fr;gap:4rem;align-items:center}
+.timeline{list-style:none;padding:0;margin:2rem 0 0;border-left:2px solid var(--pluma)}
+.timeline li{position:relative;padding:0 0 1.6rem 1.5rem}
+.timeline li::before{
+  content:"";position:absolute;left:-7px;top:.4em;
+  width:12px;height:12px;border-radius:50%;background:var(--rojo);
+}
+.timeline strong{font-family:'Kanit',sans-serif;font-weight:700;color:var(--negro);display:block;margin-bottom:.2rem}
+.bloque-rojo{
+  background:var(--rojo);color:#fff;padding:2.5rem;border-radius:var(--radio);
+}
+.bloque-rojo h3{font-size:1.6rem;margin-bottom:.8rem}
+.bloque-rojo p{opacity:.92;margin:0}
+@media(max-width:840px){.historia-grid{grid-template-columns:1fr;gap:2rem}}
+
+/* ---- valores ---- */
+.valores{background:var(--negro);color:#fff}
+.valores .eyebrow{color:#fff}
+.valores .eyebrow::before{background:#fff}
+.grid-val{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1.5rem;margin-top:2rem}
+.val{
+  padding:1.8rem;border:1px solid #2a2a2a;border-radius:var(--radio);
+  transition:background .25s,border-color .25s;
+}
+.val:hover{background:var(--rojo);border-color:var(--rojo)}
+.val h3{font-family:'Kanit',sans-serif;font-size:1.3rem;margin-bottom:.5rem}
+.val p{color:#bbb;font-size:.95rem;margin:0}
+.val:hover p{color:#fff}
+
+/* ---- equipo ---- */
+.team-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1.2rem}
+.persona{
+  padding:1.6rem;border-radius:var(--radio);background:var(--niebla);
+  border-top:4px solid var(--negro);transition:border-color .2s;
+}
+.persona:hover{border-color:var(--rojo)}
+.persona .rol{
+  font-size:.72rem;letter-spacing:.18em;text-transform:uppercase;
+  color:var(--rojo);font-weight:600;margin-bottom:.4rem;
+  font-family:'Kanit',sans-serif;
+}
+.persona .nombre{font-family:'Kanit',sans-serif;font-weight:700;font-size:1.15rem;color:var(--negro)}
+
+/* ---- contacto ---- */
+.contacto{
+  background:linear-gradient(135deg,var(--negro) 0%,#1a1a1a 100%);
+  color:#fff;
+}
+.contacto .container{
+  display:grid;grid-template-columns:1fr 1fr;gap:3rem;align-items:center;
+}
+.contacto h2 span{color:var(--rojo)}
+.contacto p{color:#bbb}
+.info-list{list-style:none;padding:0;margin:1.5rem 0 0;display:grid;gap:1rem}
+.info-list a{display:flex;align-items:center;gap:.8rem;font-weight:500;color:#fff}
+.info-list a:hover{color:var(--rojo)}
+.info-list .ico{
+  width:36px;height:36px;border-radius:8px;background:var(--rojo);
+  display:grid;place-items:center;font-size:1rem;flex:0 0 36px;
+}
+.contacto .cta{background:var(--rojo)}
+.contacto .cta:hover{background:#fff;color:var(--negro)}
+@media(max-width:780px){.contacto .container{grid-template-columns:1fr}}
+
+/* ---- FAB WhatsApp ---- */
+.fab{
+  position:fixed;right:1.25rem;bottom:1.25rem;z-index:60;
+  width:60px;height:60px;border-radius:50%;
+  background:var(--rojo);color:#fff;
+  display:grid;place-items:center;
+  box-shadow:0 8px 24px rgba(218,0,3,.35), 0 2px 6px rgba(0,0,0,.18);
+  transition:transform .2s ease, box-shadow .2s ease, background .2s ease;
+}
+.fab:hover{background:var(--negro);transform:translateY(-2px) scale(1.04);box-shadow:0 12px 28px rgba(0,0,0,.35)}
+.fab:focus-visible{outline:3px solid #fff;outline-offset:3px}
+.fab svg{width:30px;height:30px;display:block}
+.fab .pulse{
+  position:absolute;inset:0;border-radius:50%;
+  box-shadow:0 0 0 0 rgba(218,0,3,.45);
+  animation:fab-pulse 2.4s ease-out infinite;pointer-events:none;
+}
+@keyframes fab-pulse{
+  70%{box-shadow:0 0 0 18px rgba(218,0,3,0)}
+  100%{box-shadow:0 0 0 0 rgba(218,0,3,0)}
+}
+@media(prefers-reduced-motion:reduce){.fab .pulse{animation:none}.fab:hover{transform:none}}
+@media(max-width:480px){.fab{width:54px;height:54px;right:1rem;bottom:1rem}.fab svg{width:26px;height:26px}}
+
+/* ---- footer ---- */
+footer{
+  background:#000;color:#888;padding:2.5rem 0;font-size:.88rem;
+  border-top:1px solid #1a1a1a;
+}
+footer .container{display:flex;flex-wrap:wrap;justify-content:space-between;gap:1rem}
+footer .brand{color:#fff}
+</style>
 </head>
 <body>
-<a href="#content" class="sr-only sr-only-focusable">Ir al contenido principal</a>
 
-<!-- Menubar -->
+<a href="#main" class="skip">Saltar al contenido</a>
 
-<nav class="navbar navbar-default navbar-static-top"><div class="container">
-<!-- This keeps the margins nice -->
-        <div class="navbar-header">
-            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-navbar" aria-controls="bs-navbar" aria-expanded="false">
-            <span class="sr-only">Mostrar navegación</span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            </button>
-            <a class="navbar-brand" href="https://pestarini.com.ar/">
+<header class="site-header">
+  <nav class="nav" aria-label="Principal">
+    <a href="#" class="brand" aria-label="Pestarini Agrimensura · Inicio">
+      <img src="SVG_Logotipo/Logo_Combinado_Negro.svg" alt="Pestarini Agrimensura">
+    </a>
+    <button class="menu-btn" aria-label="Abrir menú" aria-expanded="false" onclick="this.closest('nav').classList.toggle('open');this.setAttribute('aria-expanded',this.closest('nav').classList.contains('open'))">☰</button>
+    <ul>
+      <li><a href="#servicios">Servicios</a></li>
+      <li><a href="#historia">Historia</a></li>
+      <li><a href="#equipo">Equipo</a></li>
+      <li><a href="#oficinas">Oficinas</a></li>
+      <li><a href="#contacto" class="cta">Contactanos</a></li>
+    </ul>
+  </nav>
+</header>
 
-                <span id="blog-title">Pestarini Agrimensura</span>
-            </a>
+<main id="main">
+
+<section class="hero" aria-labelledby="hero-title">
+  <div class="container hero-grid">
+    <div>
+      <span class="eyebrow">Estudio de Agrimensura · Desde 1950</span>
+      <h1 id="hero-title">Tres generaciones <span>marcando el camino.</span></h1>
+      <p class="lead">Más de 75 años acompañando a quienes necesitan precisión, claridad y respaldo en cada mensura, plano y proyecto territorial.</p>
+      <div class="hero-actions">
+        <a href="#contacto" class="cta">Solicitar presupuesto</a>
+        <a href="#servicios" class="cta outline">Ver servicios</a>
+      </div>
+      <div class="hero-stats" role="list">
+        <div class="stat" role="listitem">
+          <div class="num"><em>75</em>+</div>
+          <div class="label">Años de trayectoria</div>
         </div>
-<!-- /.navbar-header -->
-        <div class="collapse navbar-collapse" id="bs-navbar" aria-expanded="false">
-            <ul class="nav navbar-nav">
-<li>
-<a href="#oficinas">Oficinas</a>
-                </li>
-<li>
-<a href="#contacto">Contacto</a>
-                </li>
-<li>
-<a href="http://gea.pestarini.com.ar/"><strong>GEA</strong></a>
-
-                
-            </li>
-</ul>
-<ul class="nav navbar-nav navbar-right"></ul>
-</div>
-<!-- /.navbar-collapse -->
+        <div class="stat" role="listitem">
+          <div class="num">3</div>
+          <div class="label">Generaciones de Agrimensores</div>
+        </div>
+        <div class="stat" role="listitem">
+          <div class="num">100<em>%</em></div>
+          <div class="label">Atención personalizada</div>
+        </div>
+      </div>
     </div>
-<!-- /.container -->
-</nav><!-- End of Menubar --><div class="container" id="content" role="main">
-    <div class="body-content">
-        <!--Body content-->
-        <div class="row">
-            
-            
-<article class="storypage" itemscope="itemscope" itemtype="http://schema.org/Article"><div itemprop="articleBody text">
-    <section class="jumbotron" id="estudio-de-agrimensura-br-enrique-a-pestarini"><h2>Estudio de Agrimensura <br><strong>Enrique A. Pestarini</strong>
-</h2>
-<p>Agrim. <strong>Alberto Pestarini</strong> <br>ICoPA 1-0014 <br>Ing. Agrim. <strong>Santiago Pestarini</strong> <br>ICoPA 1-0253</p>
-</section><section id="servicios-de-agrimensura"><h2>Servicios de Agrimensura</h2>
-<p>Ofrecemos Servicios de Agrimensura desde hace más de 70 años</p>
-<ul class="simple">
-<li><p><strong>Mensuras y subdivisiones urbanas y rurales</strong></p></li>
-<li><p><strong>Verificaciones de Estado Parcelario</strong></p></li>
-<li><p>Loteos y urbanizaciones</p></li>
-<li><p>Certificados Municipales</p></li>
-<li><p>Medianería</p></li>
-<li><p>Planialtimetrías</p></li>
-<li><p>Topografía GPS/GNSS</p></li>
-<li><p>Modelos Digitales del Terreno</p></li>
-</ul>
-<p>Somos especialistas en:</p>
-<ul class="simple">
-<li><p>Anexiones a distancia de fracciones rurales</p></li>
-<li><p><strong>Mensuras para DIVISIÓN de CONDOMINIO RURAL (LEY 14.053)</strong></p></li>
-</ul></section><section id="consultas-gratuitas"><h2>Consultas gratuitas</h2>
-<p>Se atienden consultas de manera gratuita por teléfono, Whatsapp o correo electrónico (ver <a class="reference external" href="#contacto">contacto</a>). También de manera presencial en las oficinas, previamente acordadas.</p>
-</section><section id="contacto-1"><h2>Contacto</h2>
-<ul class="simple">
-<li><p>Teléfono: (0341) 156180010</p></li>
-<li><p>Correo electrónico: <a class="reference external" href="mailto:estudio@pestarini.com.ar">estudio@pestarini.com.ar</a></p></li>
-<li><p>Personalmente en nuestras oficinas</p></li>
-</ul></section><section id="oficinas"><h2>Oficinas</h2>
-<div class="line-block">
-<div class="line">San Martín 430 - piso 1</div>
-<div class="line">(2252) Gálvez</div>
-<div class="line">Santa Fe</div>
-<div class="line">Argentina</div>
-</div>
-<div>
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3382.3748429426532!2d-61.223673324893845!3d-32.032043926282476!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95b58c62da56e279%3A0x5a545da8bcc03509!2sEstudio%20de%20Agrimensura%20%22Enrique%20A.%20Pestarini%22!5e0!3m2!1ses-419!2sus!4v1689340396697!5m2!1ses-419!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-<div class="line-block">
-<div class="line">Dorato 638 (CONEXA Cowork)</div>
-<div class="line">(2252) Gálvez</div>
-<div class="line">Santa Fe</div>
-<div class="line">Argentina</div>
-</div>
-<div>
-    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3382.2722579259375!2d-61.22075672489385!3d-32.03482132641914!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95b58d029e1cfb33%3A0x160dd73b10a1fe15!2sCONEXA%20Cowork!5e0!3m2!1ses-419!2sus!4v1689340349724!5m2!1ses-419!2sus" width="400" height="300" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-</div>
-<p class="pull-right"><a class="reference external image-reference" href="http://qr.afip.gob.ar/?qr=sGWfZgpwkXuxUMzthXFskQ,,"><img alt="dfa" src="images/DATAWEB.jpg" style="height: 50px;"></a> <a class="reference external image-reference" href="http://qr.afip.gob.ar/?qr=ruJ85j_ljCwmbuZoZulEVA,,"><img alt="dfs" src="images/DATAWEB.jpg" style="height: 50px;"></a></p>
-<p><a class="reference external image-reference" href="https://www.mercadopago.com.ar/cuotas/"><img alt="mplogo" src="https://http2.mlstatic.com/ui/navigation/4.1.4/mercadopago/logo__large.png"></a></p>
+    <aside class="hero-visual" aria-hidden="true">
+      <picture>
+        <source type="image/webp" srcset="hero-sm.webp 800w, hero.webp 1600w" sizes="(max-width:840px) 100vw, 40vw">
+        <img src="hero.jpg" srcset="hero-sm.jpg 800w, hero.jpg 1600w" sizes="(max-width:840px) 100vw, 40vw" alt="" width="1600" height="900" loading="eager" decoding="async">
+      </picture>
+      <span class="hero-badge">Desde 1950</span>
+      <p class="hero-quote">«Generaciones que se encuentran para seguir marcando el camino. Generaciones que marcan el camino para seguirse encontrando.»</p>
+      <!-- <p class="hero-quote">«Generaciones que marcan el camino. Generaciones que se encuentran para seguir marcándolo.»</p> -->
+    </aside>
+  </div>
 </section>
-</div>
-</article>
-</div>
-        <!--End of body content-->
 
-        <footer id="footer">
-            Pestarini Agrimensura  |  Contenidos © 2023 <a href="mailto:santiago@pestarini.com.ar">Santiago Pestarini</a>  |  Empoderado por <a href="http://getnikola.com/" rel="nofollow">Nikola</a>, <a href="https://github.com/" rel="nofollow">GitHub</a>, <a href="http://freedns.afraid.org/" rel="nofollow">Free DNS</a>  |  
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/deed.es_AR"><img alt="Creative Commons License" style="border-width:0" src="http://i.creativecommons.org/l/by-sa/4.0/80x15.png"></a>
+<section id="servicios" class="servicios" aria-labelledby="srv-title">
+  <div class="container">
+    <header class="section-head">
+      <span class="eyebrow">Servicios</span>
+      <h2 id="srv-title">Soluciones técnicas con respaldo profesional.</h2>
+      <p>Trabajamos en cada proyecto con tecnología actualizada y el rigor que da una larga trayectoria en agrimensura.</p>
+    </header>
+    <div class="grid-srv">
+      <article class="card"><div class="ico">M</div><h3>Mensuras</h3><p>Mensuras particulares, judiciales y de afectación. Confección y registración de planos.</p></article>
+      <article class="card"><div class="ico">S</div><h3>Divisiones de Condominio</h3><p>División de condominios rurales por Leyes Provinciales, Anexión a Distancia. Trámites ante Ministerios.</p></article>
+      <article class="card"><div class="ico">S</div><h3>Subdivisiones y loteos</h3><p>División de tierras urbanas y rurales, propiedad horizontal y conjuntos inmobiliarios.</p></article>
+      <article class="card"><div class="ico">T</div><h3>Relevamientos topográficos</h3><p>Planialtimetría, curvas de nivel y modelos digitales con equipamiento GNSS y estación total.</p></article>
+      <article class="card"><div class="ico">R</div><h3>Regularización dominial</h3><p>Acompañamos procesos de prescripción adquisitiva y regularización de títulos.</p></article>
+      <article class="card"><div class="ico">A</div><h3>Amojonamientos</h3><p>Replanteo y demarcación de límites con precisión topográfica certificada.</p></article>
+      <article class="card"><div class="ico">P</div><h3>Pericias y asesorías</h3><p>Informes técnicos, pericias judiciales y asesoría en proyectos inmobiliarios.</p></article>
+    </div>
+  </div>
+</section>
 
-            
-        </footer>
-</div>
-</div>
+<section id="historia" class="historia" aria-labelledby="his-title">
+  <div class="container historia-grid">
+    <div>
+      <span class="eyebrow">Nuestra historia</span>
+      <h2 id="his-title">Un legado que se mide en generaciones.</h2>
+      <p>La firma comenzó alrededor de 1950 con el agrimensor Enrique Pestarini. Su hijo Alberto continuó el camino, y hoy Santiago, su nieto, lidera junto a él un equipo que combina experiencia, tecnología y sensibilidad humana.</p>
+      <ol class="timeline">
+        <li><strong>1950</strong>Enrique Pestarini funda el estudio.</li>
+        <li><strong>Segunda generación</strong>Alberto Pestarini suma su impronta y consolida la firma.</li>
+        <li><strong>Hoy</strong>Santiago Pestarini lidera junto a su padre un equipo interdisciplinario.</li>
+      </ol>
+    </div>
+    <div class="bloque-rojo">
+      <h3>Trayectoria + Experiencia</h3>
+      <p>Dos conceptos que sintetizan nuestro recorrido. La fuerza de tres generaciones se resume en una palabra: Pestarini.</p>
+    </div>
+  </div>
+</section>
 
+<section class="valores" aria-labelledby="val-title">
+  <div class="container">
+    <header class="section-head">
+      <span class="eyebrow">Lo que nos define</span>
+      <h2 id="val-title">Cuatro valores, una identidad.</h2>
+    </header>
+    <div class="grid-val">
+      <article class="val"><h3>Experiencia</h3><p>Décadas de proyectos exitosos respaldan nuestra dedicación y conocimiento.</p></article>
+      <article class="val"><h3>Confianza</h3><p>Servicio seguro, confiable y profesional. Sinónimo de precisión y honestidad.</p></article>
+      <article class="val"><h3>Trayectoria</h3><p>Tres generaciones cosechando reconocimientos y logros notables.</p></article>
+      <article class="val"><h3>Compromiso</h3><p>Vamos más allá de los requerimientos iniciales para superar expectativas.</p></article>
+    </div>
+  </div>
+</section>
 
-            <script src="assets/js/all-nocdn.js"></script><!-- fancy dates --><script>
-    moment.locale("es");
-    fancydates(2, "YYYY-MM-DD HH:mm");
-    </script><!-- end fancy dates --><script>
-    baguetteBox.run('div#content', {
-        ignoreClass: 'islink',
-        captions: function(element) {
-            return element.getElementsByTagName('img')[0].alt;
-    }});
-    </script>
+<section id="equipo" aria-labelledby="eq-title">
+  <div class="container">
+    <header class="section-head">
+      <span class="eyebrow">Nuestro equipo</span>
+      <h2 id="eq-title">Un equipo interdisciplinario.</h2>
+      <p>Liderado por Santiago y Alberto Pestarini, integrado por profesionales y estudiantes avanzados que comparten un mismo estándar de calidad.</p>
+    </header>
+    <div class="team-grid">
+      <article class="persona"><div class="rol">Ingeniero Agrimensor</div><div class="nombre">Santiago Pestarini</div></article>
+      <article class="persona"><div class="rol">Agrimensor</div><div class="nombre">Alberto Pestarini</div></article>
+      <article class="persona"><div class="rol">Arquitecta</div><div class="nombre">Yamile Sturba</div></article>
+      <article class="persona"><div class="rol">Estudiante de Agrimensura</div><div class="nombre">Melisa Poncio</div></article>
+      <article class="persona"><div class="rol">Estudiante de Agrimensura</div><div class="nombre">Bruno Raimondi</div></article>
+    </div>
+  </div>
+</section>
+
+<section id="oficinas" aria-labelledby="of-title">
+  <div class="container">
+    <header class="section-head">
+      <span class="eyebrow">Oficinas</span>
+      <h2 id="of-title">Estamos en Gálvez, Santa Fe.</h2>
+      <p>Dos espacios de trabajo para acompañar a nuestros clientes con cercanía y disponibilidad.</p>
+    </header>
+    <div class="team-grid">
+      <article class="persona">
+        <div class="rol">Oficina Alberto</div>
+        <div class="nombre">San Martín 430</div>
+        <p style="margin:.6rem 0 0;color:var(--gris);font-size:.95rem">Gálvez, Santa Fe, Argentina</p>
+        <a href="https://maps.app.goo.gl/faut26SKoeitXsFY6" target="_blank" rel="noopener" style="display:inline-block;margin-top:.8rem;color:var(--rojo);font-weight:500;font-size:.9rem">Ver en mapa →</a>
+        <!-- <a href="https://maps.google.com/?q=San+Mart%C3%ADn+430,+G%C3%A1lvez,+Santa+Fe,+Argentina" target="_blank" rel="noopener" style="display:inline-block;margin-top:.8rem;color:var(--rojo);font-weight:500;font-size:.9rem">Ver en mapa →</a> -->
+      </article>
+      <article class="persona">
+        <div class="rol">Oficina Santiago · CONEXA Cowork</div>
+        <div class="nombre">Dorato 638</div>
+        <p style="margin:.6rem 0 0;color:var(--gris);font-size:.95rem">Gálvez, Santa Fe, Argentina</p>
+        <a href="https://maps.app.goo.gl/zRk55xuUFiv3haQA9" target="_blank" rel="noopener" style="display:inline-block;margin-top:.8rem;color:var(--rojo);font-weight:500;font-size:.9rem">Ver en mapa →</a>
+        <!-- <a href="https://maps.google.com/?q=Dorato+638,+G%C3%A1lvez,+Santa+Fe,+Argentina" target="_blank" rel="noopener" style="display:inline-block;margin-top:.8rem;color:var(--rojo);font-weight:500;font-size:.9rem">Ver en mapa →</a> -->
+      </article>
+    </div>
+  </div>
+</section>
+
+<section id="contacto" class="contacto" aria-labelledby="cnt-title">
+  <div class="container">
+    <div>
+      <span class="eyebrow">Contacto</span>
+      <h2 id="cnt-title">Conversemos sobre <span>tu proyecto.</span></h2>
+      <p>Contanos qué necesitás. Te respondemos a la brevedad con una propuesta clara y personalizada.</p>
+      <ul class="info-list">
+        <li><a href="mailto:estudio@pestarini.com.ar"><span class="ico" aria-hidden="true">@</span>estudio@pestarini.com.ar</a></li>
+        <li><a href="tel:+5493416180010"><span class="ico" aria-hidden="true">☏</span>+54 9 341 618-0010</a></li>
+      </ul>
+    </div>
+    <div>
+      <a href="mailto:estudio@pestarini.com.ar?subject=Consulta%20Pestarini%20Agrimensura" class="cta" style="font-size:1.05rem;padding:1rem 1.6rem">Escribinos un correo →</a>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<footer>
+  <div class="container">
+    <div class="brand"><img src="SVG_Logotipo/Logo_Combinado_Blanco.svg" alt="Pestarini Agrimensura"></div>
+    <div>© <span id="y"></span> Pestarini Agrimensura · Más de 75 años de trayectoria.</div>
+  </div>
+</footer>
+
+<a class="fab" href="https://wa.me/5493416180010?text=Hola%2C%20me%20comunico%20desde%20la%20web%20de%20Pestarini%20Agrimensura." target="_blank" rel="noopener" aria-label="Escribinos por WhatsApp">
+  <span class="pulse" aria-hidden="true"></span>
+  <svg viewBox="0 0 32 32" fill="currentColor" aria-hidden="true">
+    <path d="M16.001 3.2C8.93 3.2 3.2 8.93 3.2 16c0 2.26.6 4.47 1.74 6.42L3.2 28.8l6.55-1.71a12.78 12.78 0 0 0 6.25 1.61h.01c7.07 0 12.8-5.73 12.8-12.8S23.07 3.2 16.001 3.2zm0 23.36h-.01a10.6 10.6 0 0 1-5.4-1.48l-.39-.23-3.89 1.02 1.04-3.79-.25-.39A10.62 10.62 0 0 1 5.39 16c0-5.85 4.76-10.6 10.61-10.6 2.83 0 5.49 1.1 7.49 3.11a10.55 10.55 0 0 1 3.11 7.5c0 5.85-4.76 10.55-10.6 10.55zm5.81-7.94c-.32-.16-1.88-.93-2.17-1.03-.29-.11-.5-.16-.72.16-.21.32-.82 1.03-1 1.24-.18.21-.37.24-.69.08-.32-.16-1.34-.49-2.55-1.57-.94-.84-1.58-1.88-1.76-2.2-.18-.32-.02-.49.14-.65.14-.14.32-.37.48-.55.16-.18.21-.32.32-.53.11-.21.05-.4-.03-.55-.08-.16-.72-1.74-.99-2.39-.26-.62-.53-.54-.72-.55-.18-.01-.4-.01-.61-.01-.21 0-.55.08-.84.4-.29.32-1.1 1.07-1.1 2.61 0 1.54 1.13 3.03 1.29 3.24.16.21 2.22 3.39 5.38 4.75.75.32 1.34.51 1.79.66.75.24 1.43.21 1.97.13.6-.09 1.88-.77 2.14-1.51.27-.74.27-1.37.18-1.51-.08-.13-.29-.21-.61-.37z"/>
+  </svg>
+</a>
+
+<script>document.getElementById('y').textContent=new Date().getFullYear()</script>
 </body>
 </html>

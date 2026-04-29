@@ -1,4 +1,4 @@
-Sitemap: https://pestarini.com.ar/sitemapindex.xml
+User-agent: *
+Allow: /
 
-User-Agent: *
-Host: pestarini.com.ar
+Sitemap: https://www.pestarini.com.ar/sitemap.xml
